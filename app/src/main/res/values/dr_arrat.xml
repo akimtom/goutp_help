@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="imgess">
+      1  <item>@drawable/carrot_33625_640</item>
+      2  <item>@drawable/cabbage</item>
+      3  <item>@drawable/potatoes_2795_1920</item>
+      4  <item>@drawable/wheat_bread_1228602_1920</item>
+
+    </integer-array>
+
+    <string-array name="prod_title">
+    1    <item>Морковь</item>
+    2    <item>Капуста</item>
+    3    <item>Картофель</item>
+    4    <item>Белый хлеб</item>
+
+
+    </string-array>
+    <string-array name="prod_decsr">
+        1    <item>Морковь абсолютно безопасный корнеплод для подагриков, ешьте смело в не ограниченных количествах так же морковь содержит витамина А</item>
+        2    <item>Капуста белокочанная полезный и здоровый продукт богатый витамином C при подагре употребляться  без ограничения</item>
+        3    <item>Второй хлеб. Почти не содержит пуринов входит в список допустимых продуктов при подагре</item>
+        4    <item>Не самый полезный продукт для худеющих, но при подагре он безопасен</item>
+
+    </string-array>
+
+    <integer-array name="acid_count">
+        1  <item>12</item>
+        2  <item>24</item>
+        3  <item>10</item>
+        4  <item>10</item>
+
+    </integer-array>
+
+</resources>
